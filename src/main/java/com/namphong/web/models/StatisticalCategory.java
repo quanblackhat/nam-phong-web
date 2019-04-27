@@ -1,4 +1,4 @@
-package com.namphong.web.model;
+package com.namphong.web.models;
 
 import java.io.Serializable;
 import java.math.BigInteger;

@@ -1,7 +1,7 @@
 
-package com.namphong.web.repository;
+package com.namphong.web.repositories;
 
-import com.namphong.web.model.Article;
+import com.namphong.web.models.Article;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
@@ -15,7 +15,7 @@ public interface ArticleRepository extends JpaRepository<Article, Long> {
     @Query(value = "SELECT article"
             + " FROM Article article"
             + " ORDER BY article.dateCreatedTimestamp DESC ")
-    Page<Article> loadLastestArticles(Pageable pageable);
+    Page<Article> loadLatestArticles(Pageable pageable);
 
     @Query(value = "SELECT article"
             + " FROM Article article"

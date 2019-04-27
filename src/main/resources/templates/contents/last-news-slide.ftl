@@ -8,7 +8,7 @@
                         <#list lastArticles as article>
                         <div class="item">
                             <div class="slider-post post-height-1">
-                                <a href="${contextPath}${article.url}" class="news-image"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                                <a href="${contextPath}${article.url}" class="news-image"><img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                                                     onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive"></a>
                                 <div class="post-text">
                                     <h2><a href="${contextPath}${article.url}">${article.title}</a></h2>
@@ -27,7 +27,7 @@
                     <#list lastArticles as article>
                     <div class="col-xs-6 col-sm-12 col-md-12 thm-padding">
                         <div class="slider-post post-height-2">
-                            <a href="${contextPath}${article.url}" class="news-image"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                            <a href="${contextPath}${article.url}" class="news-image"><img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                                                              onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive"></a>
                             <div class="post-text">
                                 <h4><a href="${contextPath}${article.url}">${article.title}</a></h4>

@@ -106,7 +106,7 @@
                                     <div class="item">
                                         <div class="slider-post post-height-1">
                                             <a href="${contextPath}${article.url}" class="news-image">
-                                                <img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                                                <img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                                      onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive"></a>
                                             <div class="post-text">
                                                 <span class="post-category">Business</span>
@@ -129,7 +129,7 @@
                                 <div class="col-xs-6 col-sm-6 col-md-6 thm-padding">
                                     <div class="slider-post post-height-2">
                                         <a href="${contextPath}${article.url}" class="news-image">
-                                            <img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                                            <img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                                 onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive"></a>
                                         <div class="post-text">
                                             <span class="post-category">Photography</span>
@@ -164,7 +164,7 @@
                                         <div class="col-sm-6 col-p">
                                             <article>
                                                 <figure>
-                                                    <a href="${contextPath}${article.url}"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                                                    <a href="${contextPath}${article.url}"><img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                                                     onerror="this.src='${contextPath}/static/assets/images/default.jpg'" height="242" width="345"  class="img-responsive"></a>
                                                     <span class="post-category">Business</span>
                                                 </figure>

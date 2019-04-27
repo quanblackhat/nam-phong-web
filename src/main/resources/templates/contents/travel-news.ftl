@@ -24,7 +24,7 @@
                     <div class="col-sm-6 main-post-inner bord-right">
                         <article>
                             <figure>
-                                <a href="${contextPath}${article.url}"><img src="${contextPath}/images/${article.image}"
+                                <a href="${contextPath}${article.url}"><img src="${contextPath}/${article.image}"
                                                 onerror="this.src='${contextPath}/static/assets/images/default.jpg'" height="242" width="345" alt="" class="img-responsive"></a>
                                 <span class="post-category">Travel</span>
                             </figure>
@@ -52,7 +52,7 @@
                                     <div class="grid-item">
                                         <div class="grid-item-img">
                                             <a href="${contextPath}${article.url}">
-                                                <img src="${contextPath}/images/${article.image}"
+                                                <img src="${contextPath}/${article.image}"
                                                      onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive" alt="">
                                                 <div class="link-icon"><i class="fa fa-play"></i></div>
                                             </a>
@@ -82,7 +82,7 @@
                     <div class="col-sm-6 main-post-inner bord-right">
                         <article>
                             <figure>
-                                <a href="${contextPath}${article.title}"><img src="${contextPath}/images/${article.image}"
+                                <a href="${contextPath}${article.title}"><img src="${contextPath}/${article.image}"
                                                 onerror="this.src='${contextPath}/static/assets/images/default.jpg'" height="242" width="345" alt="" class="img-responsive"></a>
                                 <span class="post-category">Travel</span>
                             </figure>
@@ -110,7 +110,7 @@
                                     <div class="grid-item">
                                         <div class="grid-item-img">
                                             <a href="${contextPath}${article.url}">
-                                                <img src="${contextPath}/images/${article.image}"
+                                                <img src="${contextPath}/${article.image}"
                                                      onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive" alt="">
                                                 <div class="link-icon"><i class="fa fa-play"></i></div>
                                             </a>

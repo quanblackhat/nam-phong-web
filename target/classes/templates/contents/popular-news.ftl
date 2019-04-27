@@ -24,7 +24,7 @@
                             <div class="col-sm-6 main-post-inner bord-right">
                                 <article>
                                     <figure>
-                                        <a href="${contextPath}${article.url}"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                                        <a href="${contextPath}${article.url}"><img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                                                       onerror="this.src='${contextPath}/static/assets/images/default.jpg'"
                                                                       height="242" width="345" class="img-responsive"></a>
                                     </figure>
@@ -44,7 +44,7 @@
                                     <div class="news-list-item">
                                         <div class="img-wrapper">
                                             <a href="${contextPath}${article.url}" class="thumb">
-                                                <img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                                                <img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                                      onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive">
                                             </a>
                                         </div>
@@ -76,7 +76,7 @@
                     <div class="col-sm-6 main-post-inner bord-right">
                         <article>
                             <figure>
-                                <a href="${contextPath}${article.url}"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                                <a href="${contextPath}${article.url}"><img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                                               onerror="this.src='${contextPath}/static/assets/images/default.jpg'"
                                                               height="242" width="345" class="img-responsive"></a>
                             </figure>
@@ -96,7 +96,7 @@
                             <div class="news-list-item">
                                 <div class="img-wrapper">
                                     <a href="${contextPath}${article.url}" class="thumb">
-                                        <img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                                        <img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                              onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive">
                                     </a>
                                 </div>

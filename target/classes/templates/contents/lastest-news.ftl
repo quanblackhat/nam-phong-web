@@ -37,7 +37,7 @@
                             <#list lastArticles as article>
                                 <div class="news-list-item articles-list">
                                     <div class="img-wrapper">
-                                        <a href="${contextPath}#" class="thumb"><img src="${contextPath}/images/${article.image}" alt="Ảnh bài viết"
+                                        <a href="${contextPath}#" class="thumb"><img src="${contextPath}/${article.image}" alt="Ảnh bài viết"
                                                                        onerror="this.src='${contextPath}/static/assets/images/default.jpg'" class="img-responsive"></a>
                                     </div>
                                     <div class="post-info-2">

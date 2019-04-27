@@ -1,7 +1,7 @@
 
-package com.namphong.web.repository;
+package com.namphong.web.repositories;
 
-import com.namphong.web.model.Menu;
+import com.namphong.web.models.Menu;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
