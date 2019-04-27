@@ -1,600 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa5289fb-9b48-42d1-9dd1-d5e556aa2e0c" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/nam_phong_web_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/nam_phong_web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/03146f6e-ce7f-4f7a-9eb8-f644c5112f37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_9_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nam-phong-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/controller/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/model/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/model/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/model/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/model/StatisticalCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/repository/ArticleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/namphong/web/repository/MenuRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/dist/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/dist/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/dist/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/dist/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/dist/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/dist/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/dist/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/dist/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/OwlCarousel2-2.2.1/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bootsnav/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bootsnav/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bootsnav/css/bootsnav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/bootsnav/js/bootsnav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/RYPP.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/bootstrap.rtl.full.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/bootstrap.rtl.full.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/images/ui-icons_444444_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/images/ui-icons_555555_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/images/ui-icons_777620_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/images/ui-icons_777777_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/images/ui-icons_cc0000_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/rtl-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/skin-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/css/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/img/I-news-show.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/js/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/assets/js/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/documentation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/segoe-ui/SEGOEUII.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/segoe-ui/myfontsfree.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/segoe-ui/segoe-ui.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/segoe-ui/segoeui.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/segoe-ui/segoeuib.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/segoe-ui/segoeuiz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/115x85-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/115x85-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/115x85-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/115x85-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/115x85-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/115x85-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/115x85-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/165x110-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/165x110-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/165x110-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/165x110-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/165x110-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/165x110-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/165x110-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/165x110-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/218x150-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/218x150-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/218x150-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/218x150-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/340x215-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/378x270-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/378x270-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/378x270-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/378x270-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/378x270-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/378x270-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/620x370-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/620x370-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/620x370-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/620x370-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/620x370-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/620x370-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/620x370-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/620x370-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/add320x270-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/add728x90-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/avatar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/boxed-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/details-300x362-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/details-690x380-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/details-690x460-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/details-690x460-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/details-750x420-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/faq-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/featured-620x370-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/featured-620x370-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/featured-620x370-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/featured-620x370-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/featured-620x370-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/gallery-235x160-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/gallery-235x160-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/gallery-235x160-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/gallery-235x160-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/gallery-235x160-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/game_results_logo_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/game_results_logo_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/ico/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x230-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x230-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x230-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x230-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x460-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x460-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x460-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x460-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x460-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-260x460-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-520x230-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-520x460-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-520x460-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-520x460-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-520x460-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-520x460-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-520x460-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-520x460-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-695x460-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-695x460-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-695x460-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-695x460-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-695x460-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-695x460-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/slider-695x460-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/statistic-box-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/team/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/team/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/team/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/team/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/ui-icons_444444_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/images/wethear-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/RYPP.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/jquery.twbsPagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/skycons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/theia-sticky-sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/owl-carousel/AjaxLoader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/owl-carousel/grabbing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/owl-carousel/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/owl-carousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/owl-carousel/owl.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/owl-carousel/owl.transitions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/themify-icons/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/themify-icons/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/themify-icons/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/themify-icons/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/themify-icons/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/weather-icons/css/weather-icons-wind.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/weather-icons/css/weather-icons-wind.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/weather-icons/css/weather-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/weather-icons/css/weather-icons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/weather-icons/font/weathericons-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/weather-icons/font/weathericons-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/weather-icons/font/weathericons-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/weather-icons/font/weathericons-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/weather-icons/font/weathericons-regular-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contents/featured-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contents/last-news-slide.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contents/lastest-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contents/more-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contents/popular-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contents/travel-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contents/trending.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/header-top.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/menu.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/right-sidebar.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/setting.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/sub-footer.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/youtube-video.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layouts/about.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layouts/category.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layouts/contact.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layouts/detail.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layouts/index.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/nam-phong-web.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/dist/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/dist/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/dist/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/dist/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/dist/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/dist/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/dist/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/dist/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/OwlCarousel2-2.2.1/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/bootsnav/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/bootsnav/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/bootsnav/css/bootsnav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/bootsnav/js/bootsnav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/RYPP.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/bootstrap.rtl.full.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/bootstrap.rtl.full.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/images/ui-icons_444444_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/images/ui-icons_555555_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/images/ui-icons_777620_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/images/ui-icons_777777_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/images/ui-icons_cc0000_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/rtl-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/skin-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/css/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/img/I-news-show.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/js/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/assets/js/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/documentation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/segoe-ui/SEGOEUII.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/segoe-ui/myfontsfree.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/segoe-ui/segoe-ui.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/segoe-ui/segoeui.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/segoe-ui/segoeuib.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/fonts/segoe-ui/segoeuiz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/115x85-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/115x85-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/115x85-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/115x85-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/115x85-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/115x85-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/115x85-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/165x110-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/165x110-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/165x110-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/165x110-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/165x110-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/165x110-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/165x110-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/165x110-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/218x150-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/218x150-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/218x150-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/218x150-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/340x215-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/378x270-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/378x270-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/378x270-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/378x270-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/378x270-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/378x270-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/620x370-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/620x370-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/620x370-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/620x370-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/620x370-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/620x370-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/620x370-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/620x370-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/add320x270-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/add728x90-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/avatar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/boxed-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/details-300x362-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/details-690x380-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/details-690x460-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/details-690x460-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/details-750x420-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/faq-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/featured-620x370-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/featured-620x370-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/featured-620x370-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/featured-620x370-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/featured-620x370-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/gallery-235x160-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/gallery-235x160-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/gallery-235x160-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/gallery-235x160-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/gallery-235x160-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/game_results_logo_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/game_results_logo_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/ico/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x230-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x230-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x230-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x230-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x460-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x460-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x460-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x460-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x460-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-260x460-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-520x230-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-520x460-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-520x460-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-520x460-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-520x460-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-520x460-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-520x460-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-520x460-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-695x460-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-695x460-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-695x460-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-695x460-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-695x460-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-695x460-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/slider-695x460-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/statistic-box-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/team/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/team/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/team/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/team/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/ui-icons_444444_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/images/wethear-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/RYPP.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/jquery.twbsPagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/skycons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/theia-sticky-sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/owl-carousel/AjaxLoader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/owl-carousel/grabbing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/owl-carousel/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/owl-carousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/owl-carousel/owl.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/owl-carousel/owl.transitions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/themify-icons/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/themify-icons/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/themify-icons/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/themify-icons/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/themify-icons/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/weather-icons/css/weather-icons-wind.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/weather-icons/css/weather-icons-wind.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/weather-icons/css/weather-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/weather-icons/css/weather-icons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/weather-icons/font/weathericons-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/weather-icons/font/weathericons-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/weather-icons/font/weathericons-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/weather-icons/font/weathericons-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/weather-icons/font/weathericons-regular-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/contents/detail.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/contents/featured-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/contents/index-old.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/contents/last-news-slide.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/contents/lastest-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/contents/more-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/contents/popular-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/contents/travel-news.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/contents/trending.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/about-contact-layout.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/comment.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/detail-layout.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/footer.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/header-top.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/header.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/menu.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/related-article.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/right-sidebar.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/setting.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/sub-footer.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/fragments/youtube-video.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layouts/about.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layouts/category.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layouts/contact.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layouts/detail.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/layouts/index.ftl" afterDir="false" />
+    <list default="true" id="aa5289fb-9b48-42d1-9dd1-d5e556aa2e0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -642,11 +51,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/namphong/web/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1825">
-              <caret line="35" column="60" lean-forward="true" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+              <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/header.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-823" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -680,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/youtube-video.ftl" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/namphong/web/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -700,7 +135,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nam-phong-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nam-phong-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -755,12 +200,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556294664044</updated>
-      <workItem from="1556294669022" duration="2644000" />
+      <workItem from="1556294669022" duration="3231000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1556298037216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556298037216</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2644000" />
+    <option name="totallyTimeSpent" value="3231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="0" />
@@ -774,10 +227,10 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30329043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.56962025" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49928468" visible="true" weight="0.56962025" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.56962025" />
+      <window_info anchor="bottom" id="Messages" weight="0.32911393" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -835,7 +288,26 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/namphong/web/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1825">
-          <caret line="35" column="60" lean-forward="true" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/header.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-823" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
         </state>
       </provider>
     </entry>
