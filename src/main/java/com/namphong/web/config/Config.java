@@ -38,8 +38,11 @@ public class Config extends WebMvcConfigurerAdapter {
                     .addResolver(new PathResourceResolver());
         }
 
-        //todo: neu co 1 thuc muc anh khac thi config o day.
-        // field image trong db phai luu day du là /otherImageDirectory/image.jpg
+        /**
+         * Neu co 1 thuc muc anh khac thi config o day.
+         * Field image trong db phai luu day du là /otherImageDirectory/F.jpgilename
+         * imagesDirectory2 được get từ file application.
+         */
         if (!registry.hasMappingForPattern("/otherImageDirectory/**")) {
             registry.addResourceHandler("/otherImageDirectory/**")
                     .addResourceLocations("file:" + imagesDirectory2)

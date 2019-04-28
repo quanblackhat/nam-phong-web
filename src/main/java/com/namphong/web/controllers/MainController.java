@@ -1,14 +1,10 @@
 package com.namphong.web.controllers;
 
-import com.namphong.web.models.Article;
-import com.namphong.web.models.StatisticalCategory;
 import com.namphong.web.services.ArticleService;
-
 import com.namphong.web.services.CategoryService;
 import com.namphong.web.services.MenuService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -17,11 +13,6 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
-
-import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Optional;
 
 @Controller
 public class MainController {
@@ -48,7 +39,6 @@ public class MainController {
     public int FIRST_PAGE;
     @Value("${page_size}")
     public int PAGE_SIZE;
-
 
     /**
      * Add dynamic component such as menu, category,..
